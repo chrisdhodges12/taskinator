@@ -56,6 +56,7 @@ var createTaskEl = function(taskDataObj) {
   taskIdCounter++;
 };
 
+
 var createTaskActions = function(taskId) {
   // create container to hold elements
   var actionContainerEl = document.createElement("div");
